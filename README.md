@@ -3,7 +3,7 @@
 
 Como correr helloworldh
 
--Copiar la ruta del archivo en cualquier navgador de internet.
+-Abrir el archivo index.html con cualquier navegador de internet.
 
 -Presionar F5 para actualizar y verificar cambios
 
